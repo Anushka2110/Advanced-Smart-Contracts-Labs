@@ -1,5 +1,4 @@
 # ProxyDelegate
-
 Following the steps to complete this exercise:(completed)
 1. clone this project
 1. update packages: ```npm ci```
